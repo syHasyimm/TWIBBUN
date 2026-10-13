@@ -1,0 +1,12 @@
+node_modules/
+.qa/
+artifacts/
+dist/
+*.local
+*.tsbuildinfo
+.vercel/
+.DS_Store
+.env
+.env.*
+!.env.example
+
